@@ -54,7 +54,7 @@
   * [What should I do if the data repo key is lost?](#what-should-i-do-if-the-data-repo-key-is-lost)
   * [Do I need to pay for it?](#do-i-need-to-pay-for-it)
 * [🙏 Acknowledgement](#-acknowledgement)
-  * [Contributors](#contributors)
+  * [贡献者](#contributors)
 
 ---
 
